@@ -1,0 +1,32 @@
+.container{
+
+    margin-bottom: 25px;
+}
+
+.buy-now{
+
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.carousel-item{
+
+
+    background-image: url("images/bg/header-bg.png");
+}
+
+
+.carousel-indicators li {
+
+    background-color:gray;
+}
+
+.carousel-indicators .active{
+
+    background-color:orange;
+    opacity: 1;
+
+}
